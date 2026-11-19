@@ -1,0 +1,1 @@
+Project assets are stored in this folder.
